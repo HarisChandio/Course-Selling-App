@@ -1,8 +1,7 @@
 const mongoose = require("mongoose");
 
 
-const url =
-"mongodb+srv://admin:BM2WTRgyukCchLFF@test.bkup85k.mongodb.net/course_selling_app"
+const url =  "your url"
 
 mongoose.connect(url);
 
